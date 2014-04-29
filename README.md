@@ -12,7 +12,7 @@ Provides a secure password to a PDF through flex component.
 </ul>
 
 <h4>Use</h4>
-<b>Spanish:</b> El projecto compone de 2 partes:
+<b>Spanish:</b> El proyecto se compone de 2 partes:
 <ol>
   <li>Servicio de ver clave: Otorga el permiso de ver la clave en el PDF, ete servicio está en la clase "ControlClaveImpl".
   <li>Generación de PDF: Se realiza por medio de la clase "GeneradorPdfImpl". La generación del documento tiene opciones para configurar su nivel de seguridad.
